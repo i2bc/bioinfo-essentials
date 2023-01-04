@@ -19,6 +19,7 @@ Everything you need to know while working as bioinformatician in an I2BC team: d
 
 ## git/github
   https://www.atlassian.com/git/tutorials
+  
   https://t.co/MDYXnnA0DC
 
 ## TOOLS FOR NGS/SEQUENCE TEAMS
