@@ -18,7 +18,7 @@ Everything you need to know while working as bioinformatician in an I2BC team: d
   https://www.biorxiv.org/content/10.1101/2022.12.21.521373v1
 
 ## git/github
-  https://www.atlassian.com/git/tutorials
+  https://www.atlassian.com/git/tutorials  
   Git Tutorial for Beginners (1 hour video): https://t.co/MDYXnnA0DC
 
 ## TOOLS FOR NGS/SEQUENCE TEAMS
