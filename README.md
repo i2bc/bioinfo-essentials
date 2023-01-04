@@ -1,4 +1,4 @@
-# bioinfo-essentials @ I2BC
+# Bioinfo Essentials @ I2BC
 
 Everything you need to know while working as bioinformatician in an I2BC team: documentations, short videos, Twitter feeds, etc.
 
