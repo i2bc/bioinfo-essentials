@@ -1,7 +1,6 @@
 # bioinfo-essentials @ I2BC
 
-Everything you need to know while working as bioinformatician in an I2BC team.
-Documentations, short videos, Twitter feeds, etc.
+Everything you need to know while working as bioinformatician in an I2BC team: documentations, short videos, Twitter feeds, etc.
 
 ## TOOLS EVERY BIOINFORMATICIAN SHOULD KNOW
 
@@ -22,7 +21,7 @@ Documentations, short videos, Twitter feeds, etc.
   https://www.atlassian.com/git/tutorials
   https://t.co/MDYXnnA0DC
 
-## TOOLS FOR NGS/SEQUENCE LABS
+## TOOLS FOR NGS/SEQUENCE TEAMS
 
 ### SRA/fastq stuff
   gget for SRA metadata
