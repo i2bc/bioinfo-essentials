@@ -8,9 +8,6 @@ Maybe you don't master them all, but you should know they exist!
 ### Using the I2BC cluster
   https://intranet.i2bc.paris-saclay.fr/intranet/sics/Main/Cluster
   
-### Jupyter notebooks
-  https://twitter.com/pyquantnews/status/1562957339543875589
-
 ### Zotero
   https://twitter.com/MushtaqBilalPhD/status/1562709453996060673
 
@@ -21,6 +18,10 @@ Maybe you don't master them all, but you should know they exist!
 ## git/github
   https://www.atlassian.com/git/tutorials  
   Git Tutorial for Beginners (1 hour video): https://t.co/MDYXnnA0DC
+
+### Jupyter notebooks
+  https://twitter.com/pyquantnews/status/1562957339543875589  
+  Configure Jupyter in visual Studio Code: https://code.visualstudio.com/docs/datascience/jupyter-notebooks 
 
 ## TOOLS FOR NGS/SEQUENCE TEAMS
 
