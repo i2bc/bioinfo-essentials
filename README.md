@@ -6,7 +6,7 @@ Maybe you don't master them all, but you should know they exist!
 ## TOOLS EVERY BIOINFORMATICIAN SHOULD KNOW
 
 ### Using the I2BC cluster
-  https://intranet.i2bc.paris-saclay.fr/intranet/sics/Main/Cluster
+  https://intranet.i2bc.paris-saclay.fr/intranet/sics/Main/Cluster (Intranet, needs multipass)
   
 ### git/github
   https://www.atlassian.com/git/tutorials  
