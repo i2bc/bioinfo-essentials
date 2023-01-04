@@ -1,6 +1,6 @@
 # Bioinfo Essentials @ I2BC
 
-Everything you need to know while working as bioinformatician in an I2BC team: documentations, short videos, Twitter feeds, etc.
+Everything you need to know while working as a bioinformatician at I2BC: documentations, short videos, Twitter feeds, etc.
 
 ## TOOLS EVERY BIOINFORMATICIAN SHOULD KNOW
 
