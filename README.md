@@ -29,8 +29,8 @@ Maybe you don't master them all, but you should know they exist!
 ## TOOLS FOR NGS/SEQUENCE TEAMS
 
 ### SRA/fastq stuff
-  gget for SRA metadata:  
-    https://github.com/pachterlab/gget  
+  ffq for SRA, EBI, DDJ, GEO metadata retrieval:  
+    https://github.com/pachterlab/ffq  
   seqkit fastq/fasta stats, extract, gc%, duplicates, pattern search, sort, concatenate :  
     https://github.com/shenwei356/seqkit/releases/tag/v2.3.0
     
