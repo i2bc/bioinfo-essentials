@@ -32,6 +32,7 @@ Maybe you don't master them all, but you should know they exist!
   ffq for SRA, EBI, DDJ, GEO metadata retrieval:  
     https://github.com/pachterlab/ffq  
     See Pachter's description here: https://twitter.com/lpachter/status/1522322188493197312  
+    
   seqkit fastq/fasta stats, extract, gc%, duplicates, pattern search, sort, concatenate :  
     https://github.com/shenwei356/seqkit/releases/tag/v2.3.0
     
