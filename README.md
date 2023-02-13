@@ -8,11 +8,11 @@ Maybe you don't master them all, but you should know they exist!
 ### Using the I2BC cluster
   https://intranet.i2bc.paris-saclay.fr/intranet/sics/Main/Cluster (Intranet, needs multipass)
 
-  Connecting to the I2BC cluster from home (with a non I2BC station)
-    ssh firstname.lastname@passerelle.i2bc.paris-saclay.fr
-    enter passwd then :
-    ssh firstname.lastname@i2bc-cluster.calcul.i2bc.paris-saclay.fr
-    and you’re on the cluster
+  Connecting to the I2BC cluster from home (with a non I2BC station)  
+    ssh firstname.lastname@passerelle.i2bc.paris-saclay.fr  
+    enter passwd then :  
+    ssh firstname.lastname@i2bc-cluster.calcul.i2bc.paris-saclay.fr  
+    you’re on the cluster
 
   
 ### git/github
