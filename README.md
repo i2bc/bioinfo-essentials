@@ -28,7 +28,7 @@ Maybe you don't master them all, but you should know they exist!
 
 ### Jupyter notebooks
   https://twitter.com/pyquantnews/status/1562957339543875589  
-  Configure Jupyter in visual Studio Code: https://code.visualstudio.com/docs/datascience/jupyter-notebooks 
+  Configure Jupyter in Visual Studio Code: https://code.visualstudio.com/docs/datascience/jupyter-notebooks 
 
 ### Zotero
   https://twitter.com/MushtaqBilalPhD/status/1562709453996060673
